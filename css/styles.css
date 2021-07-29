@@ -23,9 +23,16 @@ img {
 }
 a {
   color: #ffe66d;
+  font-weight: bold;
 }
 a:hover {
   text-decoration: none;
+}
+strong {
+  color: #ffe66d;
+}
+section p strong {
+  color: black;
 }
 h1 {
   font-size: 100px;
