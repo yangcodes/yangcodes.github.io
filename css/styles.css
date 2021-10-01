@@ -126,6 +126,9 @@ header {
 .education p {
   width: 60%;
 }
+.certificate {
+  display: flex;
+}
 
 /* Contact Info
 ------------------------------------*/
